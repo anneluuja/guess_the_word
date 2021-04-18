@@ -6,4 +6,5 @@ before making 20 mistakes. Change line 20 in main.py to reduce the max number of
 
 
 Gameplay in PyCharm:
-![Capture](https://user-images.githubusercontent.com/82713997/115142220-45db7880-a049-11eb-9d86-86ae3375baa5.PNG)
+![Capture](https://user-images.githubusercontent.com/82713997/115142258-70c5cc80-a049-11eb-8e17-072b09575b76.PNG)
+

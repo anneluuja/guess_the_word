@@ -5,6 +5,7 @@ You'll see a random word from the .txt file in the "data" folder with all letter
 before making 20 mistakes. Change line 20 in main.py to reduce the max number of mistakes and make the game more interesting. Change the filename on line 18 to use your own text file!
 
 
+
 Gameplay in PyCharm:
 ![Capture](https://user-images.githubusercontent.com/82713997/115142258-70c5cc80-a049-11eb-8e17-072b09575b76.PNG)
 
